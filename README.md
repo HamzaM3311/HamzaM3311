@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HamzaM3311
 - 👀 I’m interested in coding and researching on new stuff
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mohdhamza3311@gmail.com
 
 <!---
